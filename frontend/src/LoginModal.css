@@ -1,0 +1,21 @@
+.login {
+	height: 40px;
+	width: 15px;
+	margin: 0px 0px 8.5px -4px;
+}
+
+.clickable {
+	cursor: pointer;
+}
+
+.headNoBorder {
+	border-bottom: 0px none #ffffff;
+	background-color: #e6fcfc;
+}
+
+/*
+.modal-card-head {
+	border-bottom: 0px none #ffffff;
+	background-color: #e6fcfc;
+}
+*/
