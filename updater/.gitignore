@@ -10,8 +10,8 @@ __pycache__
 /img_example
 /img_png_to_ico
 /imported_backups
-/log
-/output*
+#/log
+#/output*
 /placeholders*
 /files
 
@@ -35,7 +35,7 @@ __pycache__
 credentials.json
 *.spec
 token.pickle
-*.ods
+# *.ods
 
 npm-debug.log*
 yarn-debug.log*
