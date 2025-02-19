@@ -1,5 +1,5 @@
 # internship_website
-An application I developed during my internship, that allows users to view past courses offered by my department. The project uses MariaDB for admin user data and MongoDB for course information. It consists of three components:
+A full stack application I developed during my internship, that allows users to view past courses offered by my department. The project uses MariaDB for admin user data and MongoDB for course information. It consists of three components:
 
 ****Frontend****: A React-based web application that allows users to view past courses, detailed information on each course, and an admin interface for viewing attendee information.
 
