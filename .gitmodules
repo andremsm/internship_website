@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/andremsm/internship_backend
+[submodule "updater"]
+	path = updater
+	url = https://github.com/andremsm/internship_updater
